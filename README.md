@@ -14,6 +14,7 @@
 一名喜欢把想法亲手变成产品的开发者，主攻 **AI Agent** 方向。比起调包，我更喜欢钻进底层 —— 用 **Tree-sitter** 解析 AST，用 **Worker Threads** 做服务隔离，给桌面应用打磨主题系统，也为 CLI 写一套"输错不退出、`q` 回主菜单"的执拗交互。
 
 | | |
+| ---- | | ---- |
 | **正在做** | [Mr.Sliy](https://github.com/whureww/Mr.Sliy--AI_Agent) —— 智能代码检测与优化 Agent |
 | **兴趣** | Agent 编排、AST 分析、桌面端开发、CLI 体验设计 |
 | **欢迎聊** | LLM 应用 / Tauri / TypeScript / C++ |
