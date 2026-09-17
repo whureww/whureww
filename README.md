@@ -6,7 +6,7 @@
   ![Visitors](https://komarev.com/ghpvc/?username=whureww&color=6a5af9&style=flat-square&abbreviated=true)
 </div>
 
-## 关于我
+## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/user.png" width="24" align="center" alt="icon"/> 关于我
 
 > _"放下个人素质，享受幸福生活。"_
 
@@ -14,14 +14,14 @@
 
 | | |
 | --- | --- |
-| 坐标 | 云南 · 昆明 |
-| 正在做 | [Mr.Sliy](https://github.com/whureww/Mr.Sliy--AI_Agent) —— 智能代码检测与优化 Agent |
-| 兴趣 | Agent 编排、AST 分析、桌面端开发、CLI 体验设计 |
-| 欢迎聊 | LLM 应用 / Tauri / TypeScript / C++ |
+| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/map-marker.png" width="16" align="center"/> **坐标** | 云南 · 昆明 |
+| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/rocket.png" width="16" align="center"/> **正在做** | [Mr.Sliy](https://github.com/whureww/Mr.Sliy--AI_Agent) —— 智能代码检测与优化 Agent |
+| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/idea.png" width="16" align="center"/> **兴趣** | Agent 编排、AST 分析、桌面端开发、CLI 体验设计 |
+| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/chat.png" width="16" align="center"/> **欢迎聊** | LLM 应用 / Tauri / TypeScript / C++ |
 
-## 我在构建什么
+## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/hammer.png" width="24" align="center" alt="icon"/> 我在构建什么
 
-### Mr.Sliy · AI 代码检测与优化 Agent
+### <img src="https://img.icons8.com/ios-filled/50/00D4FF/source-code.png" width="20" align="center" alt="icon"/> Mr.Sliy · AI 代码检测与优化 Agent
 
 支持接入 **云端 / 本地大模型** 的智能 Agent，让代码优化像对话一样自然。
 
@@ -30,7 +30,7 @@
 - **服务隔离** —— Worker Threads 隔离核心服务，主进程稳如老狗
 - **自更新门控** —— 热更新需用户授权，支持回滚与超时兜底
 
-### Silex · 文件传输工具
+### <img src="https://img.icons8.com/ios-filled/50/00D4FF/synchronize.png" width="20" align="center" alt="icon"/> Silex · 文件传输工具
 
 C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
 
@@ -43,31 +43,34 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   </a>
 </div>
 
-## 技术栈
+## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/code.png" width="24" align="center" alt="icon"/> 技术栈
 
 **语言**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,rust&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,cpp,rust&theme=light" />
+</picture>
 
 **方向**
 
-![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tauri&theme=light" />
+</picture>
+
 ![Worker Threads](https://img.shields.io/badge/Worker_Threads-多线程隔离-339933?style=flat-square)
 ![Tree-sitter](https://img.shields.io/badge/Tree--sitter-AST解析-2D3134?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-云端·本地大模型-412991?style=flat-square&logo=openai&logoColor=white)
 
 **工具链**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,githubactions,vscode,vite&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,vite&theme=light" />
+</picture>
 
-## GitHub 数据
+## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/combo-chart.png" width="24" align="center" alt="icon"/> GitHub 数据
 
 <div align="center">
   <picture>
@@ -94,7 +97,7 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   </picture>
 </div>
 
-## 贡献贪吃蛇
+## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/github.png" width="24" align="center" alt="icon"/> 贡献贪吃蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whureww/whureww/output/github-contribution-grid-snake-dark.svg" />
