@@ -10,7 +10,6 @@
   <img src="https://img.shields.io/badge/%E5%85%B3%E4%BA%8E%E6%88%91-6A5AF9?style=for-the-badge" alt="关于我" />
 </div>
 
-> _"放下个人素质，享受幸福生活。"_
 
 一名喜欢把想法亲手变成产品的开发者，主攻 **AI Agent** 方向。比起调包，我更喜欢钻进底层 —— 用 **Tree-sitter** 解析 AST，用 **Worker Threads** 做服务隔离，给桌面应用打磨主题系统，也为 CLI 写一套"输错不退出、`q` 回主菜单"的执拗交互。
 
