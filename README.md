@@ -40,10 +40,10 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
 
 <div align="center">
   <a href="https://github.com/whureww/Mr.Sliy--AI_Agent">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=whureww&repo=Mr.Sliy--AI_Agent&theme=tokyonight&hide_border=true" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=whureww&repo=Mr.Sliy--AI_Agent&theme=tokyonight&hide_border=true" />
   </a>
   <a href="https://github.com/whureww/Silex">
-    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=whureww&repo=Silex&theme=tokyonight&hide_border=true" />
+    <img height="150" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=whureww&repo=Silex&theme=tokyonight&hide_border=true" />
   </a>
 </div>
 
