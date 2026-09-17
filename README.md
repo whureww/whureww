@@ -6,7 +6,9 @@
   ![Visitors](https://komarev.com/ghpvc/?username=whureww&color=6a5af9&style=flat-square&abbreviated=true)
 </div>
 
-## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/user.png" width="24" align="center" alt="icon"/> 关于我
+<div align="center">
+  <img src="https://img.shields.io/badge/%E5%85%B3%E4%BA%8E%E6%88%91-6A5AF9?style=for-the-badge" alt="关于我" />
+</div>
 
 > _"放下个人素质，享受幸福生活。"_
 
@@ -14,14 +16,16 @@
 
 | | |
 | --- | --- |
-| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/map-marker.png" width="16" align="center"/> **坐标** | 云南 · 昆明 |
-| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/rocket.png" width="16" align="center"/> **正在做** | [Mr.Sliy](https://github.com/whureww/Mr.Sliy--AI_Agent) —— 智能代码检测与优化 Agent |
-| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/idea.png" width="16" align="center"/> **兴趣** | Agent 编排、AST 分析、桌面端开发、CLI 体验设计 |
-| <img src="https://img.icons8.com/ios-filled/50/6A5AF9/chat.png" width="16" align="center"/> **欢迎聊** | LLM 应用 / Tauri / TypeScript / C++ |
+| **坐标** | 云南 · 昆明 |
+| **正在做** | [Mr.Sliy](https://github.com/whureww/Mr.Sliy--AI_Agent) —— 智能代码检测与优化 Agent |
+| **兴趣** | Agent 编排、AST 分析、桌面端开发、CLI 体验设计 |
+| **欢迎聊** | LLM 应用 / Tauri / TypeScript / C++ |
 
-## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/hammer.png" width="24" align="center" alt="icon"/> 我在构建什么
+<div align="center">
+  <img src="https://img.shields.io/badge/%E6%88%91%E5%9C%A8%E6%9E%84%E5%BB%BA%E4%BB%80%E4%B9%88-00A8CC?style=for-the-badge" alt="我在构建什么" />
+</div>
 
-### <img src="https://img.icons8.com/ios-filled/50/00D4FF/source-code.png" width="20" align="center" alt="icon"/> Mr.Sliy · AI 代码检测与优化 Agent
+### Mr.Sliy · AI 代码检测与优化 Agent
 
 支持接入 **云端 / 本地大模型** 的智能 Agent，让代码优化像对话一样自然。
 
@@ -30,7 +34,7 @@
 - **服务隔离** —— Worker Threads 隔离核心服务，主进程稳如老狗
 - **自更新门控** —— 热更新需用户授权，支持回滚与超时兜底
 
-### <img src="https://img.icons8.com/ios-filled/50/00D4FF/synchronize.png" width="20" align="center" alt="icon"/> Silex · 文件传输工具
+### Silex · 文件传输工具
 
 C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
 
@@ -43,7 +47,9 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   </a>
 </div>
 
-## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/code.png" width="24" align="center" alt="icon"/> 技术栈
+<div align="center">
+  <img src="https://img.shields.io/badge/%E6%8A%80%E6%9C%AF%E6%A0%88-6A5AF9?style=for-the-badge" alt="技术栈" />
+</div>
 
 **语言**
 
@@ -54,11 +60,7 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
 
 **方向**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tauri&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=tauri&theme=light" />
-</picture>
-
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white)
 ![Worker Threads](https://img.shields.io/badge/Worker_Threads-多线程隔离-339933?style=flat-square)
 ![Tree-sitter](https://img.shields.io/badge/Tree--sitter-AST解析-2D3134?style=flat-square)
 ![LLM](https://img.shields.io/badge/LLM-云端·本地大模型-412991?style=flat-square&logo=openai&logoColor=white)
@@ -70,7 +72,9 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   <img src="https://skillicons.dev/icons?i=git,githubactions,vscode,vite&theme=light" />
 </picture>
 
-## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/combo-chart.png" width="24" align="center" alt="icon"/> GitHub 数据
+<div align="center">
+  <img src="https://img.shields.io/badge/GitHub%20%E6%95%B0%E6%8D%AE-00A8CC?style=for-the-badge" alt="GitHub 数据" />
+</div>
 
 <div align="center">
   <picture>
@@ -96,15 +100,6 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
     <img width="100%" src="https://github-profile-trophy.vercel.app/?username=whureww&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
   </picture>
 </div>
-
-## <img src="https://img.icons8.com/ios-filled/50/6A5AF9/github.png" width="24" align="center" alt="icon"/> 贡献贪吃蛇
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whureww/whureww/output/github-contribution-grid-snake-dark.svg" />
-  <img width="100%" src="https://raw.githubusercontent.com/whureww/whureww/output/github-contribution-grid-snake.svg" />
-</picture>
-
-> 蛇第一次不会自己出现：需要手动运行一次 "generate snake" Action，之后每天自动更新。
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a5af9&height=120&section=footer" />
 
