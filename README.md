@@ -83,8 +83,6 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
     <img height="165" src="https://streak-stats.demolab.com?user=whureww&hide_border=true&locale=zh_Hans" />
   </picture>
   <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whureww&layout=compact&hide_border=true&langs_count=8" />
-
-  <img width="100%" src="https://ghchart.rshah.org/6a5af9/whureww" alt="contribution chart" />
 </div>
 
 <div align="center">
