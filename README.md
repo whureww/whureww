@@ -94,7 +94,6 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   <img width="100%" src="https://raw.githubusercontent.com/whureww/whureww/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> 蛇在灰色空格间穿行属于动画效果：它沿着最短路径吞食每一颗"贡献果实"。每天自动更新一次。
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a5af9&height=120&section=footer" />
 
