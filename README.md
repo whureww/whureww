@@ -87,6 +87,17 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   <img width="100%" src="https://ghchart.rshah.org/6a5af9/whureww" alt="contribution chart" />
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/%E8%B4%A1%E7%8C%AE%E8%B4%AA%E5%90%83%E8%9B%87-6A5AF9?style=for-the-badge" alt="贡献贪吃蛇" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whureww/whureww/output/github-contribution-grid-snake-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/whureww/whureww/output/github-contribution-grid-snake.svg" />
+</picture>
+
+> 蛇在灰色空格间穿行属于动画效果：它沿着最短路径吞食每一颗"贡献果实"。每天自动更新一次。
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a5af9&height=120&section=footer" />
 
 <div align="center">
