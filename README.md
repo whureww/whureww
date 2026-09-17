@@ -77,28 +77,14 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=whureww&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=whureww&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  </picture>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=whureww&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=whureww&hide_border=true&theme=tokyonight&locale=zh_Hans" />
     <img height="165" src="https://streak-stats.demolab.com?user=whureww&hide_border=true&locale=zh_Hans" />
   </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=whureww&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=whureww&layout=compact&hide_border=true&langs_count=8" />
-  </picture>
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=whureww&layout=compact&hide_border=true&langs_count=8" />
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=whureww&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=whureww&bg_color=ffffff&color=6a5af9&line=00d4ff&point=6a5af9&area=true&hide_border=true" />
-  </picture>
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=whureww&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8" />
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=whureww&theme=flat&no-frame=true&row=1&column=6&margin-w=8" />
-  </picture>
+  <img width="100%" src="https://ghchart.rshah.org/6a5af9/whureww" alt="contribution chart" />
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:6a5af9&height=120&section=footer" />
