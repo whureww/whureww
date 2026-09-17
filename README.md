@@ -6,7 +6,7 @@
   ![Visitors](https://komarev.com/ghpvc/?username=whureww&color=6a5af9&style=flat-square&abbreviated=true)
 </div>
 
-## 🧭 关于我
+## 关于我
 
 > _"放下个人素质，享受幸福生活。"_
 
@@ -14,14 +14,14 @@
 
 | | |
 | --- | --- |
-| 📍 坐标 | 云南 · 昆明 |
-| 🔭 正在做 | [Mr.Sliy](https://github.com/whureww/Mr.Sliy--AI_Agent) —— 智能代码检测与优化 Agent |
-| 🌱 兴趣 | Agent 编排、AST 分析、桌面端开发、CLI 体验设计 |
-| 💬 欢迎聊 | LLM 应用 / Tauri / TypeScript / C++ |
+| 坐标 | 云南 · 昆明 |
+| 正在做 | [Mr.Sliy](https://github.com/whureww/Mr.Sliy--AI_Agent) —— 智能代码检测与优化 Agent |
+| 兴趣 | Agent 编排、AST 分析、桌面端开发、CLI 体验设计 |
+| 欢迎聊 | LLM 应用 / Tauri / TypeScript / C++ |
 
-## 🔨 我在构建什么
+## 我在构建什么
 
-### 🤖 Mr.Sliy · AI 代码检测与优化 Agent
+### Mr.Sliy · AI 代码检测与优化 Agent
 
 支持接入 **云端 / 本地大模型** 的智能 Agent，让代码优化像对话一样自然。
 
@@ -30,7 +30,7 @@
 - **服务隔离** —— Worker Threads 隔离核心服务，主进程稳如老狗
 - **自更新门控** —— 热更新需用户授权，支持回滚与超时兜底
 
-### 📦 Silex · 文件传输工具
+### Silex · 文件传输工具
 
 C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
 
@@ -43,7 +43,7 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   </a>
 </div>
 
-## 🧰 技术栈
+## 技术栈
 
 **语言**
 
@@ -67,7 +67,7 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-## 📊 GitHub 数据
+## GitHub 数据
 
 <div align="center">
   <picture>
@@ -94,7 +94,7 @@ C++ 编写，电脑 ↔ 电脑、电脑 ↔ 手机互传，稳定优先。
   </picture>
 </div>
 
-## 🐍 贡献贪吃蛇
+## 贡献贪吃蛇
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/whureww/whureww/output/github-contribution-grid-snake-dark.svg" />
